@@ -22,6 +22,10 @@ This repo stores the:
 
 ## Change Log
 
-### [v0.1.1](https://github.com/gaiaBuildSystem/phobos-releases-assets/releases/tag/v0.1.1)
+### [v0.1.1](https://github.com/gaiaBuildSystem/phobos-release-assets/releases/tag/v0.1.1)
 
 - Added support for TPM 2.0 on qemuarm64 target;
+
+### [v0.1.0](https://github.com/gaiaBuildSystem/phobos-release-assets/releases/tag/v0.1.0)
+
+- Initial release of PhobOS with support for qemu x86_64 and qemu arm64 targets;
